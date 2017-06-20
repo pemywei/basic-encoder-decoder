@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=12 python test.py
