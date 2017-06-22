@@ -47,9 +47,9 @@ class Seq2SeqModel(object):
         self.decoder_inputs_emb = tf.split(self.decoder_inputs_emb, self.num_steps, 0)
 
         # lstm cell
-        self.enc_lstm_cell_fw = tf.contrib.rnn.BasicLSTMCell(self.hidden_dim, state_is_tuple=False)
-        self.enc_lstm_cell_bw = tf.contrib.rnn.BasicLSTMCell(self.hidden_dim, state_is_tuple=False)
-        self.dec_lstm_cell = tf.contrib.rnn.BasicLSTMCell(self.hidden_dim * 2, state_is_tuple=False)
+        self.enc_lstm_cell_fw = tf.contrib.rnn.BasicLSTMCell(self.hidden_dim, state_is_tuple=False, reuse=tf.get_variable_scope().reuse)
+        self.enc_lstm_cell_bw = tf.contrib.rnn.BasicLSTMCell(self.hidden_dim, state_is_tuple=False, reuse=tf.get_variable_scope().reuse)
+        self.dec_lstm_cell = tf.contrib.rnn.BasicLSTMCell(self.hidden_dim * 2, state_is_tuple=False, reuse=tf.get_variable_scope().reuse)
 
         # dropout
         if is_training:
