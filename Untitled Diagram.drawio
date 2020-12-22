@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-22T12:00:37.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="FP29gBcvMWzwXVS-dT9l" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-22T12:00:52.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="iXFY3RZ0IVXnT-hhK0Ou" version="13.11.0" type="github">
   <diagram id="u-zB7YsOpXKorY1JXO84" name="Page-1">
     <mxGraphModel dx="1720" dy="114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -706,85 +706,85 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-286" value="&lt;font face=&quot;Lucida Console&quot;&gt;Source-side monolinual data&lt;br&gt;&lt;b&gt;布什与沙龙举行了会谈。&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="-507" y="1715" width="416" height="45" as="geometry" />
+          <mxGeometry x="-355" y="1717" width="416" height="45" as="geometry" />
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-287" value="&lt;font face=&quot;Lucida Console&quot;&gt;Target-side monolinual data&lt;br&gt;&lt;b&gt;Beijing is the capital of China.&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="-507" y="1977" width="416" height="45" as="geometry" />
+          <mxGeometry x="-355" y="1979" width="416" height="45" as="geometry" />
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-288" value="&lt;font face=&quot;Lucida Console&quot;&gt;Parallel data&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;font face=&quot;Lucida Console&quot;&gt;(你好，Hello)&lt;br&gt;(谢谢你，Thank you)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="-383.5" y="1820" width="169" height="97" as="geometry" />
+          <mxGeometry x="-231.5" y="1822" width="169" height="97" as="geometry" />
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-289" value="$$\mathcal{M}_{y \rightarrow x}$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="-192" y="1882" width="102" height="35" as="geometry" />
+          <mxGeometry x="-40" y="1884" width="102" height="35" as="geometry" />
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-291" value="$$\mathcal{M}_{x \rightarrow y}$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="-507" y="1820" width="102" height="35" as="geometry" />
+          <mxGeometry x="-355" y="1822" width="102" height="35" as="geometry" />
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-292" value="$$\langle \mathcal{M}_{y \rightarrow x}(y), y \rangle$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="-189.75" y="1937" width="97.5" height="20" as="geometry" />
+          <mxGeometry x="-37.75" y="1939" width="97.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-294" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="r_pDNS-UqptIWdIL0w3V-289">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-212" y="1900" as="sourcePoint" />
-            <mxPoint x="-291" y="1921" as="targetPoint" />
+            <mxPoint x="-60" y="1902" as="sourcePoint" />
+            <mxPoint x="-139" y="1923" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-295" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;exitX=-0.014;exitY=0.183;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="r_pDNS-UqptIWdIL0w3V-288" target="r_pDNS-UqptIWdIL0w3V-291">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-202" y="1910" as="sourcePoint" />
-            <mxPoint x="-182" y="1909.5" as="targetPoint" />
+            <mxPoint x="-50" y="1912" as="sourcePoint" />
+            <mxPoint x="-30" y="1911.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-296" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" edge="1" parent="1" source="r_pDNS-UqptIWdIL0w3V-292" target="r_pDNS-UqptIWdIL0w3V-291">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-202" y="1910" as="sourcePoint" />
-            <mxPoint x="-182" y="1909.5" as="targetPoint" />
+            <mxPoint x="-50" y="1912" as="sourcePoint" />
+            <mxPoint x="-30" y="1911.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-456" y="1947" />
+              <mxPoint x="-304" y="1949" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-297" value="$$\langle x, \mathcal{M}_{x \rightarrow y}(x)\rangle$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="-504.75" y="1780" width="97.5" height="20" as="geometry" />
+          <mxGeometry x="-352.75" y="1782" width="97.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-298" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" edge="1" parent="1" source="r_pDNS-UqptIWdIL0w3V-297" target="r_pDNS-UqptIWdIL0w3V-289">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-179.75000000000023" y="1957" as="sourcePoint" />
-            <mxPoint x="-446.0000000000002" y="1865" as="targetPoint" />
+            <mxPoint x="-27.750000000000227" y="1959" as="sourcePoint" />
+            <mxPoint x="-294.0000000000002" y="1867" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-141" y="1790" />
+              <mxPoint x="11" y="1792" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-299" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="r_pDNS-UqptIWdIL0w3V-289" target="r_pDNS-UqptIWdIL0w3V-292">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-202" y="1910" as="sourcePoint" />
-            <mxPoint x="-182" y="1909.5" as="targetPoint" />
+            <mxPoint x="-50" y="1912" as="sourcePoint" />
+            <mxPoint x="-30" y="1911.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-300" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-456.0000000000002" y="1760" as="sourcePoint" />
-            <mxPoint x="-456.0000000000002" y="1780" as="targetPoint" />
+            <mxPoint x="-304.0000000000002" y="1762" as="sourcePoint" />
+            <mxPoint x="-304.0000000000002" y="1782" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-302" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="r_pDNS-UqptIWdIL0w3V-292">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-141" y="1977" as="sourcePoint" />
-            <mxPoint x="0.4099999999997692" y="1971" as="targetPoint" />
+            <mxPoint x="11" y="1979" as="sourcePoint" />
+            <mxPoint x="152.40999999999977" y="1973" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-303" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-456.5900000000002" y="1820" as="sourcePoint" />
-            <mxPoint x="-456.5900000000002" y="1800" as="targetPoint" />
+            <mxPoint x="-304.5900000000002" y="1822" as="sourcePoint" />
+            <mxPoint x="-304.5900000000002" y="1802" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-304" value="$$x$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="-475" y="1740" width="40" height="20" as="geometry" />
+          <mxGeometry x="-323" y="1742" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="r_pDNS-UqptIWdIL0w3V-305" value="$$y$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;opacity=80;" vertex="1" parent="1">
-          <mxGeometry x="-161" y="1977" width="40" height="20" as="geometry" />
+          <mxGeometry x="-9" y="1979" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
