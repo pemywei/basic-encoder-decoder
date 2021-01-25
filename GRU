@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T07:24:57.790Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="t5HNimFdQiojb9eBKzoc" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T07:25:06.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="I7ssIPmM1q7d2Wp4C-dH" version="14.2.7" type="github">
   <diagram id="LxDS0RISfp1XBXY_93OE" name="Page-1">
     <mxGraphModel dx="652" dy="423" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -65,9 +65,6 @@
         <mxCell id="wRLl-le3GuDblL6Fgni3-36" value="$$\sigma$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="313" width="15" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="wRLl-le3GuDblL6Fgni3-41" value="&lt;font face=&quot;Times New Roman&quot;&gt;tanh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;gradientColor=none;arcSize=23;" vertex="1" parent="1">
-          <mxGeometry x="413" y="312" width="36" height="17" as="geometry" />
-        </mxCell>
         <mxCell id="wRLl-le3GuDblL6Fgni3-43" value="$$\boldsymbol{h}_{t-1}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="236" width="40" height="20" as="geometry" />
         </mxCell>
@@ -76,9 +73,6 @@
         </mxCell>
         <mxCell id="wRLl-le3GuDblL6Fgni3-47" value="&lt;font face=&quot;Times New Roman&quot;&gt;$$1-$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;gradientColor=none;arcSize=23;" vertex="1" parent="1">
           <mxGeometry x="367.25" y="274" width="26.5" height="17" as="geometry" />
-        </mxCell>
-        <mxCell id="wRLl-le3GuDblL6Fgni3-48" value="$$\boldsymbol{\times}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="423.5" y="288" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="wRLl-le3GuDblL6Fgni3-49" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wRLl-le3GuDblL6Fgni3-34" target="wRLl-le3GuDblL6Fgni3-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -102,6 +96,12 @@
               <mxPoint x="431" y="341" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wRLl-le3GuDblL6Fgni3-41" value="&lt;font face=&quot;Times New Roman&quot;&gt;tanh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;gradientColor=none;arcSize=23;" vertex="1" parent="1">
+          <mxGeometry x="413" y="312" width="36" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="wRLl-le3GuDblL6Fgni3-48" value="$$\boldsymbol{\times}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="288" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
