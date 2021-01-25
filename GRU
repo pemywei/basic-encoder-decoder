@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T07:27:57.399Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Gq2Px6PDNgQzkbk9rmdd" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T07:28:07.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="rujZXcAD1vMve9Tn04r-" version="14.2.7" type="github">
   <diagram id="LxDS0RISfp1XBXY_93OE" name="Page-1">
     <mxGraphModel dx="652" dy="423" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -92,12 +92,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wRLl-le3GuDblL6Fgni3-41" value="&lt;font face=&quot;Times New Roman&quot;&gt;tanh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;gradientColor=none;arcSize=23;" vertex="1" parent="1">
-          <mxGeometry x="413" y="312" width="36" height="17" as="geometry" />
-        </mxCell>
-        <mxCell id="wRLl-le3GuDblL6Fgni3-48" value="$$\boldsymbol{\times}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="423.5" y="288" width="15" height="15" as="geometry" />
-        </mxCell>
         <mxCell id="wRLl-le3GuDblL6Fgni3-34" value="$$\sigma$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="373" y="313" width="15" height="15" as="geometry" />
         </mxCell>
@@ -118,6 +112,12 @@
               <mxPoint x="431" y="351" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wRLl-le3GuDblL6Fgni3-41" value="&lt;font face=&quot;Times New Roman&quot;&gt;tanh&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;gradientColor=none;arcSize=23;" vertex="1" parent="1">
+          <mxGeometry x="413" y="312" width="36" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="wRLl-le3GuDblL6Fgni3-48" value="$$\boldsymbol{\times}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;shadow=0;glass=0;sketch=0;strokeColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="423.5" y="288" width="15" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
