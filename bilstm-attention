@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-01-25T11:13:20.357Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BR7ffa5uW4W5cqq-hcbN" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-25T11:15:52.515Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="J_OrG_dbq6zL09fyNsXD" version="14.2.7" type="github">
   <diagram id="omM8cl6CY_TR-iaFtY_e" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xUV4EhFddp3XfKl27CYp-1" value="$$\reflectbox{\ensuremath{\vec{\reflectbox{\ensuremath{h}}}}}$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xUV4EhFddp3XfKl27CYp-1" value="$$\overleftarrow{h_1}$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="352" y="286" width="27" height="27" as="geometry" />
         </mxCell>
       </root>
