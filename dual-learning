@@ -1,17 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T11:29:38.773Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="D08BqoxxFfQ1RUgeupCC" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T11:30:10.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Ro6kGrFRDr1EVnH97gAJ" version="14.2.7" type="github">
   <diagram id="nINLQBUAYoMmSGLm2yAy" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_exRxVQwNuiGBJQX5DBT-1" value="源语言句子" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="392" y="245" width="74" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="_exRxVQwNuiGBJQX5DBT-2" value="$$x$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="454" y="245" width="40" height="20" as="geometry" />
+          <mxGeometry x="192" y="264" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_exRxVQwNuiGBJQX5DBT-3" value="$$\tilde{x}=\mathcal{M}_{y \rightarrow x}(y)$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="438" y="268" width="150" height="20" as="geometry" />
+          <mxGeometry x="137" y="295" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
