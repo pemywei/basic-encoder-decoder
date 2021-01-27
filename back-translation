@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T08:37:21.083Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="ybGIzstRh2lhFhKVtZ8A" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T08:37:50.309Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BDtmgUBtKsv9VmD9YFzl" version="14.2.7" type="github">
   <diagram id="nfNPTaJaBEu4-Zk2U7gH" name="Page-1">
     <mxGraphModel dx="788" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="1q0j6Kp8OYfWEaTgXaEm-160" value="&lt;font face=&quot;Lucida Console&quot;&gt;Target-side monolinual data&lt;br&gt;&lt;b&gt;Beijing is the capital of China.&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="205" y="529" width="416" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="1q0j6Kp8OYfWEaTgXaEm-161" value="&lt;font face=&quot;Lucida Console&quot;&gt;Parallel data&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;font face=&quot;Lucida Console&quot;&gt;(你好，Hello)&lt;br&gt;(谢谢你，Thank you)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;opacity=80;" vertex="1" parent="1">
+        <mxCell id="1q0j6Kp8OYfWEaTgXaEm-161" value="&lt;font face=&quot;Lucida Console&quot;&gt;双语数据&lt;br&gt;&lt;/font&gt;&lt;b&gt;&lt;font face=&quot;Lucida Console&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="328.5" y="372" width="169" height="97" as="geometry" />
         </mxCell>
         <mxCell id="1q0j6Kp8OYfWEaTgXaEm-162" value="$$\mathcal{M}_{y \rightarrow x}$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;opacity=80;" vertex="1" parent="1">
