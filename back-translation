@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T09:15:26.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="M2olD-WZuNB8BTeirIMV" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T09:16:02.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="PJcRisFpG1De33VuNJeq" version="14.2.7" type="github">
   <diagram id="nfNPTaJaBEu4-Zk2U7gH" name="Page-1">
     <mxGraphModel dx="788" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="1q0j6Kp8OYfWEaTgXaEm-163" value="翻译模型&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#6c8ebf;strokeWidth=1;fillColor=#dae8fc;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="205" y="372" width="102" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="1q0j6Kp8OYfWEaTgXaEm-164" value="$$\{\langle \mathcal{M}_{y\rightarrow x}(y^{(n)}&amp;nbsp;&lt;br&gt;), y^{(n)}&amp;nbsp;&lt;br&gt;&amp;nbsp;\rangle\}_{n=1}^{N_T}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;opacity=80;" vertex="1" parent="1">
+        <mxCell id="1q0j6Kp8OYfWEaTgXaEm-164" value="$$\{\langle \mathcal{M}_{y\rightarrow x}(\tilde{y}^{(n)}&amp;nbsp;&lt;br&gt;), \tilde{y}&lt;br&gt;^{(n)}&amp;nbsp;&lt;br&gt;&amp;nbsp;\rangle\}_{n=1}^{N_T}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="522.25" y="489" width="97.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1q0j6Kp8OYfWEaTgXaEm-165" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" target="1q0j6Kp8OYfWEaTgXaEm-162">
@@ -91,7 +91,7 @@
         <mxCell id="1q0j6Kp8OYfWEaTgXaEm-190" value="$$\mathcal{D}=\{\langle x^{(n)},y^{(n)}\rangle\}_{n=1}^{N}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="393" y="427" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1q0j6Kp8OYfWEaTgXaEm-191" value="$$\mathcal{Y}=\{y^{(n)}\}_{n=1}^{N_T}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1q0j6Kp8OYfWEaTgXaEm-191" value="$$\mathcal{Y}=\{\tilde{y}&lt;br&gt;^{(n)}\}_{n=1}^{N_T}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="393" y="531" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1q0j6Kp8OYfWEaTgXaEm-192" value="$$\mathcal{M}_{x \rightarrow y}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
