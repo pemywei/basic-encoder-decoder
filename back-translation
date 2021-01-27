@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T09:00:12.403Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Depw3EYQaammPV9w-qCD" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T09:00:30.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Z-klYxq-860y3JSG0Z9p" version="14.2.7" type="github">
   <diagram id="nfNPTaJaBEu4-Zk2U7gH" name="Page-1">
     <mxGraphModel dx="788" dy="512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -43,7 +43,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1q0j6Kp8OYfWEaTgXaEm-168" value="$$\{\langle x^{(n)}, \mathcal{M}_{x^{(n)} \rightarrow y}(x)\rangle\}_{n=1}^{N_S}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;opacity=80;" vertex="1" parent="1">
+        <mxCell id="1q0j6Kp8OYfWEaTgXaEm-168" value="$$\{\langle x^{(n)}, \mathcal{M}_{x\rightarrow y}(x^{(n)}&amp;nbsp;&lt;br&gt;)\rangle\}_{n=1}^{N_S}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="207.25" y="332" width="97.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1q0j6Kp8OYfWEaTgXaEm-169" value="" style="endArrow=classic;html=1;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;rounded=0;" edge="1" parent="1" target="1q0j6Kp8OYfWEaTgXaEm-162">
