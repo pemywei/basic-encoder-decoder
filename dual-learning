@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T11:47:39.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3Cju82g5GoBU7ZHUqzMZ" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T11:48:58.340Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="KZDdyE7DgS7hTHeZrvvM" version="14.2.7" type="github">
   <diagram id="nINLQBUAYoMmSGLm2yAy" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -40,8 +40,8 @@
         <mxCell id="_exRxVQwNuiGBJQX5DBT-15" value="$$\color{red}{\Delta(x,\tilde{x})}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="264" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_exRxVQwNuiGBJQX5DBT-17" value="$$\tilde{y}=\mathcal{M}_{x \rightarrow y}(\hat{x})$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="545" y="314" width="117" height="20" as="geometry" />
+        <mxCell id="_exRxVQwNuiGBJQX5DBT-17" value="$$\tilde{y}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="521" y="314" width="117" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_exRxVQwNuiGBJQX5DBT-18" value="$$y$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="314" width="40" height="20" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="99" y="348" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_exRxVQwNuiGBJQX5DBT-20" value="$$\hat{x}=\mathcal{M}_{y \rightarrow x}(y)$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="306" width="169" height="36" as="geometry" />
+          <mxGeometry x="165" y="306" width="169" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_exRxVQwNuiGBJQX5DBT-21" value="" style="endArrow=classic;html=1;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_exRxVQwNuiGBJQX5DBT-18" target="_exRxVQwNuiGBJQX5DBT-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -63,6 +63,15 @@
         </mxCell>
         <mxCell id="_exRxVQwNuiGBJQX5DBT-22" value="$$\mathcal{M}_{y \rightarrow x}(y)$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="312" y="331" width="169" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="_exRxVQwNuiGBJQX5DBT-23" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_exRxVQwNuiGBJQX5DBT-20" target="_exRxVQwNuiGBJQX5DBT-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="222" y="274" as="sourcePoint" />
+            <mxPoint x="590.5" y="283" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="439" y="436" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
