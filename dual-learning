@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-27T11:46:21.326Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="cbUW0jMw0JXkm9FcYQYp" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-27T11:47:39.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3Cju82g5GoBU7ZHUqzMZ" version="14.2.7" type="github">
   <diagram id="nINLQBUAYoMmSGLm2yAy" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="_exRxVQwNuiGBJQX5DBT-2" value="$$x$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="192" y="264" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="_exRxVQwNuiGBJQX5DBT-3" value="$$\tilde{x}=\mathcal{M}_{y \rightarrow x}(\hat{y})$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="196" y="264" width="150" height="20" as="geometry" />
+        <mxCell id="_exRxVQwNuiGBJQX5DBT-3" value="$$\tilde{x}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="264" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_exRxVQwNuiGBJQX5DBT-8" value="$$\hat{y}=\mathcal{M}_{x \rightarrow y}(x)$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="496" y="273" width="169" height="36" as="geometry" />
@@ -34,7 +34,7 @@
         <mxCell id="_exRxVQwNuiGBJQX5DBT-13" value="$$\mathcal{M}_{x \rightarrow y}(x)$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="312" y="184" width="169" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="_exRxVQwNuiGBJQX5DBT-14" value="$$\mathcal{M}_{y \rightarrow x}(y)$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_exRxVQwNuiGBJQX5DBT-14" value="$$\mathcal{M}_{y \rightarrow x}(\hat{y})$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="308" y="228" width="169" height="36" as="geometry" />
         </mxCell>
         <mxCell id="_exRxVQwNuiGBJQX5DBT-15" value="$$\color{red}{\Delta(x,\tilde{x})}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -51,6 +51,18 @@
         </mxCell>
         <mxCell id="_exRxVQwNuiGBJQX5DBT-20" value="$$\hat{x}=\mathcal{M}_{y \rightarrow x}(y)$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="306" width="169" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="_exRxVQwNuiGBJQX5DBT-21" value="" style="endArrow=classic;html=1;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_exRxVQwNuiGBJQX5DBT-18" target="_exRxVQwNuiGBJQX5DBT-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="553.8368421052633" y="283" as="sourcePoint" />
+            <mxPoint x="281" y="274" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="407" y="397" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_exRxVQwNuiGBJQX5DBT-22" value="$$\mathcal{M}_{y \rightarrow x}(y)$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312" y="331" width="169" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
