@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T09:07:57.337Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="54Wr-OEkK57IvJjgDtrG" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T09:08:54.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="lCMfMy1arbyEJ5T9Iq9R" version="14.2.7" type="github">
   <diagram id="NITQk-ox0HRzFAhrA_U0" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -24,6 +24,15 @@
         </mxCell>
         <mxCell id="JW6eywdZ5Ja3Jryxwm0G-26" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;[MASK]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="230" y="350" width="51" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6eywdZ5Ja3Jryxwm0G-27" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;$$x_3$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="297" y="350" width="51" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6eywdZ5Ja3Jryxwm0G-28" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;$$x_4$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="350" width="51" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="JW6eywdZ5Ja3Jryxwm0G-29" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;[SEP]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeColor=#d6b656;strokeWidth=1;fillColor=#fff2cc;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="428" y="350" width="51" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
