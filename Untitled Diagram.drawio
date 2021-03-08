@@ -1,14 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T05:38:13.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="5iyEDKO-k-xZy3mqnIun" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T05:39:38.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.72 Safari/537.36" etag="AqqPTuFkbRw9rL-czKpf" version="14.2.9" type="github">
   <diagram id="rK3JdOKgJToeYwjNvOsh" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tLxk8WB9IfVRxmKsMl4F-1" value="目标语言句子&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="352" y="402" width="120" height="34" as="geometry" />
+          <mxGeometry x="132" y="417" width="120" height="34" as="geometry" />
         </mxCell>
         <mxCell id="tLxk8WB9IfVRxmKsMl4F-2" value="$$\mathbf{y}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="433" y="403.5" width="35" height="31" as="geometry" />
+          <mxGeometry x="213" y="418.5" width="35" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="tLxk8WB9IfVRxmKsMl4F-3" value="噪音信道" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="294" y="422" width="82" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="tLxk8WB9IfVRxmKsMl4F-4" value="源语言句子&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="422" y="417" width="120" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="tLxk8WB9IfVRxmKsMl4F-5" value="$$\mathbf{x}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="418.5" width="35" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
