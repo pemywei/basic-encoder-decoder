@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T11:07:34.886Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="O26_d06dRH-iHkYAm1FZ" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T11:08:18.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="za4I82apn8e_ZNB3Bw6U" version="14.4.2" type="github">
   <diagram id="dPbhs_oIOpQgouJz8oUF" name="Page-1">
     <mxGraphModel dx="1117" dy="624" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -2735,17 +2735,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vivy3fCZkPX28TDsKvDE-559" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;A Training Batch&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" parent="1" vertex="1">
-          <mxGeometry x="129.5" y="2923" width="146" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-561" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;fontSize=11;opacity=40;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="78" y="3274" width="247" height="157" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-562" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Synthetic Negative Samples&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="89" y="3286" width="219" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Vivy3fCZkPX28TDsKvDE-558" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;fontSize=11;opacity=40;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="79" y="2912" width="247" height="344" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-563" value="" style="endArrow=classic;startArrow=classic;html=1;dashed=1;strokeWidth=2;fontSize=11;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -2870,6 +2864,12 @@
             <mxPoint x="306.75" y="2202" as="sourcePoint" />
             <mxPoint x="307" y="2124" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Vivy3fCZkPX28TDsKvDE-558" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;fontSize=11;opacity=40;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="79" y="2912" width="247" height="344" as="geometry" />
+        </mxCell>
+        <mxCell id="Vivy3fCZkPX28TDsKvDE-559" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;A Training Batch&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" parent="1" vertex="1">
+          <mxGeometry x="129.5" y="2923" width="146" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
