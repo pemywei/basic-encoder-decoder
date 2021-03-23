@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T09:30:11.704Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="A3c1hDo6nmw9FR3YYpFk" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T09:30:41.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Xp-ZxHCI1j0nVp9VsMOO" version="14.4.2" type="github">
   <diagram id="dPbhs_oIOpQgouJz8oUF" name="Page-1">
     <mxGraphModel dx="1117" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1290,12 +1290,6 @@
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-264" value="$$r_y$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="375" y="1758.5" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Vivy3fCZkPX28TDsKvDE-267" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#B85450;fontSize=11;entryX=0.5;entryY=1;entryDx=0;entryDy=0;width=12;endWidth=12.857142857142858;endSize=5.342857142857143;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="367.13" y="1828" as="sourcePoint" />
-            <mxPoint x="366.4999999999998" y="1799.9999999999995" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-271" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#ea6b66&quot;&gt;&lt;i&gt;&lt;b&gt;Sampling&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="348" y="1691" width="40" height="20" as="geometry" />
