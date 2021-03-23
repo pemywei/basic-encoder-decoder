@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T09:26:27.878Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="hAmc85BmNXlCmQ7z9w1B" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T09:26:50.528Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="V13-9-GnLOpWN_sz5Fml" version="14.4.2" type="github">
   <diagram id="dPbhs_oIOpQgouJz8oUF" name="Page-1">
     <mxGraphModel dx="1117" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -2775,7 +2775,7 @@
         <mxCell id="Vivy3fCZkPX28TDsKvDE-569" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Encourage to be similar&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="46.5" y="3462" width="144" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Vivy3fCZkPX28TDsKvDE-572" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$\{\hat{r}_x^1,\hat{r}_x^2,...,\hat{r}_x^K&lt;br&gt;\}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
+        <mxCell id="Vivy3fCZkPX28TDsKvDE-572" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$\color{red}{\{\hat{r}_x^1,\hat{r}_x^2,...,\hat{r}_x^K&lt;br&gt;\}}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="298.5" y="1640" width="136" height="20" as="geometry" />
         </mxCell>
       </root>
