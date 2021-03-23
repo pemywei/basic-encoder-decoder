@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T02:11:35.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="QGr9Ove8ozNQfCO3MHKV" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T02:14:53.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="4Fiu0a7Vb-HssU0WlhkK" version="14.4.2" type="github">
   <diagram id="dPbhs_oIOpQgouJz8oUF" name="Page-1">
     <mxGraphModel dx="1117" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -911,15 +911,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-183" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px&quot;&gt;$$r_x$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="305" y="740" width="40" height="20" as="geometry" />
+          <mxGeometry x="303" y="737" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-186" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;Pooling Layer&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="157" y="791" width="336" height="29" as="geometry" />
+          <mxGeometry x="155" y="788" width="336" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-187" value="" style="endArrow=classic;html=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="325" y="791" as="sourcePoint" />
-            <mxPoint x="325" y="763" as="targetPoint" />
+            <mxPoint x="323" y="788" as="sourcePoint" />
+            <mxPoint x="323" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vivy3fCZkPX28TDsKvDE-188" value="" style="endArrow=classic;html=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vivy3fCZkPX28TDsKvDE-69" target="Vivy3fCZkPX28TDsKvDE-186">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="801" as="sourcePoint" />
+            <mxPoint x="335" y="773" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
