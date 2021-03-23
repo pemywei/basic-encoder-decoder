@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T02:21:37.136Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="LNUechFAFthyoHPMiqgz" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T02:22:40.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="RnQxq_pH0JwTv2MbiVYI" version="14.4.2" type="github">
   <diagram id="dPbhs_oIOpQgouJz8oUF" name="Page-1">
     <mxGraphModel dx="1117" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -932,105 +932,105 @@
           <mxGeometry x="477.75" y="1456" width="140.5" height="326" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-191" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#F3F3F4;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="1588" width="140.5" height="194" as="geometry" />
+          <mxGeometry x="102.5" y="1588" width="140.5" height="194" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-192" value="&lt;font face=&quot;Times New Roman&quot;&gt;Source&lt;br&gt;Embedding&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FCE0E1;arcSize=9;" vertex="1" parent="1">
-          <mxGeometry x="253" y="1838" width="82" height="33" as="geometry" />
+          <mxGeometry x="148" y="1838" width="82" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-193" value="&lt;font face=&quot;Times New Roman&quot;&gt;Multi-Head&lt;br&gt;Attention&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=9;fillColor=#FFE2BB;" vertex="1" parent="1">
-          <mxGeometry x="253" y="1708" width="82" height="33" as="geometry" />
+          <mxGeometry x="148" y="1708" width="82" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-194" value="&lt;font face=&quot;Times New Roman&quot;&gt;Feed&lt;br&gt;Forward&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=9;fillColor=#C2E8F7;" vertex="1" parent="1">
-          <mxGeometry x="253" y="1618" width="82" height="33" as="geometry" />
+          <mxGeometry x="148" y="1618" width="82" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-195" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$\boldsymbol{\oplus}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="287" y="1797" width="14" height="14" as="geometry" />
+          <mxGeometry x="182" y="1797" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-196" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Vivy3fCZkPX28TDsKvDE-192" target="Vivy3fCZkPX28TDsKvDE-195">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="513" y="1760" as="sourcePoint" />
-            <mxPoint x="563" y="1710" as="targetPoint" />
+            <mxPoint x="408" y="1760" as="sourcePoint" />
+            <mxPoint x="458" y="1710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-197" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="245" y="1794" width="20" height="20" as="geometry" />
+          <mxGeometry x="140" y="1794" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-198" value="&lt;font style=&quot;font-size: 24px&quot;&gt;$$\wr$$&lt;/font&gt;" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=105;" vertex="1" parent="1">
-          <mxGeometry x="236" y="1794" width="40" height="20" as="geometry" />
+          <mxGeometry x="131" y="1794" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-199" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Vivy3fCZkPX28TDsKvDE-197" target="Vivy3fCZkPX28TDsKvDE-195">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="546" y="1854" as="sourcePoint" />
-            <mxPoint x="288" y="1804" as="targetPoint" />
+            <mxPoint x="441" y="1854" as="sourcePoint" />
+            <mxPoint x="183" y="1804" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-200" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Position Encoding&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="174" y="1794" width="62" height="20" as="geometry" />
+          <mxGeometry x="69" y="1794" width="62" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-201" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Source Sentence&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="241.63" y="1891" width="104.75" height="24" as="geometry" />
+          <mxGeometry x="136.63" y="1891" width="104.75" height="24" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-202" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vivy3fCZkPX28TDsKvDE-201" target="Vivy3fCZkPX28TDsKvDE-192">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="501" y="1857" as="sourcePoint" />
-            <mxPoint x="551" y="1807" as="targetPoint" />
+            <mxPoint x="396" y="1857" as="sourcePoint" />
+            <mxPoint x="446" y="1807" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-203" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vivy3fCZkPX28TDsKvDE-195" target="Vivy3fCZkPX28TDsKvDE-193">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="501" y="1829" as="sourcePoint" />
-            <mxPoint x="551" y="1779" as="targetPoint" />
+            <mxPoint x="396" y="1829" as="sourcePoint" />
+            <mxPoint x="446" y="1779" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-204" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.89;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vivy3fCZkPX28TDsKvDE-195" target="Vivy3fCZkPX28TDsKvDE-193">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="466" y="1834" as="sourcePoint" />
-            <mxPoint x="516" y="1784" as="targetPoint" />
+            <mxPoint x="361" y="1834" as="sourcePoint" />
+            <mxPoint x="411" y="1784" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="294" y="1757" />
-              <mxPoint x="326" y="1757" />
+              <mxPoint x="189" y="1757" />
+              <mxPoint x="221" y="1757" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-205" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.11;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vivy3fCZkPX28TDsKvDE-195" target="Vivy3fCZkPX28TDsKvDE-193">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="304" y="1797" as="sourcePoint" />
-            <mxPoint x="304" y="1751" as="targetPoint" />
+            <mxPoint x="199" y="1797" as="sourcePoint" />
+            <mxPoint x="199" y="1751" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="294" y="1757" />
-              <mxPoint x="262" y="1757" />
+              <mxPoint x="189" y="1757" />
+              <mxPoint x="157" y="1757" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-206" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vivy3fCZkPX28TDsKvDE-195" target="Vivy3fCZkPX28TDsKvDE-208">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="309" y="1790" as="sourcePoint" />
-            <mxPoint x="516" y="1784" as="targetPoint" />
+            <mxPoint x="204" y="1790" as="sourcePoint" />
+            <mxPoint x="411" y="1784" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="294" y="1770" />
-              <mxPoint x="222" y="1770" />
-              <mxPoint x="222" y="1751" />
-              <mxPoint x="222" y="1695" />
+              <mxPoint x="189" y="1770" />
+              <mxPoint x="117" y="1770" />
+              <mxPoint x="117" y="1751" />
+              <mxPoint x="117" y="1695" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-207" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vivy3fCZkPX28TDsKvDE-193" target="Vivy3fCZkPX28TDsKvDE-194">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="466" y="1834" as="sourcePoint" />
-            <mxPoint x="516" y="1784" as="targetPoint" />
+            <mxPoint x="361" y="1834" as="sourcePoint" />
+            <mxPoint x="411" y="1784" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-208" value="&lt;font face=&quot;Times New Roman&quot;&gt;Add &amp;amp; Norm&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=9;fillColor=#F2F4C1;" vertex="1" parent="1">
-          <mxGeometry x="253" y="1686" width="82" height="17" as="geometry" />
+          <mxGeometry x="148" y="1686" width="82" height="17" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-209" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vivy3fCZkPX28TDsKvDE-208" target="Vivy3fCZkPX28TDsKvDE-228">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="466" y="1834" as="sourcePoint" />
-            <mxPoint x="516" y="1784" as="targetPoint" />
+            <mxPoint x="361" y="1834" as="sourcePoint" />
+            <mxPoint x="411" y="1784" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="294" y="1671" />
-              <mxPoint x="219" y="1671" />
-              <mxPoint x="219" y="1605" />
+              <mxPoint x="189" y="1671" />
+              <mxPoint x="114" y="1671" />
+              <mxPoint x="114" y="1605" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1126,7 +1126,7 @@
             <mxPoint x="466" y="1750" as="sourcePoint" />
             <mxPoint x="516" y="1700" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="294" y="1575" />
+              <mxPoint x="189" y="1575" />
               <mxPoint x="419" y="1575" />
               <mxPoint x="419" y="1618" />
               <mxPoint x="533" y="1618" />
@@ -1134,7 +1134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-228" value="&lt;font face=&quot;Times New Roman&quot;&gt;Add &amp;amp; Norm&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=9;fillColor=#F2F4C1;" vertex="1" parent="1">
-          <mxGeometry x="253" y="1596" width="82" height="17" as="geometry" />
+          <mxGeometry x="148" y="1596" width="82" height="17" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-229" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vivy3fCZkPX28TDsKvDE-213" target="Vivy3fCZkPX28TDsKvDE-231">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1208,13 +1208,13 @@
           <mxGeometry x="492" y="1547" width="82" height="17" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-241" value="$${\rm N}\times$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1672.5" width="40" height="20" as="geometry" />
+          <mxGeometry x="65" y="1672.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-242" value="$${\rm N}\times$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="626" y="1598" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-243" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Encoder&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="149" y="1576" width="56" height="20" as="geometry" />
+          <mxGeometry x="44" y="1576" width="56" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-244" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;Decoder&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="622" y="1454" width="56" height="20" as="geometry" />
@@ -1254,7 +1254,7 @@
             <mxPoint x="294" y="1602" as="sourcePoint" />
             <mxPoint x="533" y="1601.9999999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="294" y="1575" />
+              <mxPoint x="189" y="1575" />
               <mxPoint x="419" y="1575" />
               <mxPoint x="419" y="1618" />
               <mxPoint x="513" y="1618" />
