@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T03:39:55.808Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Kt2VgkUA4yi19lzyCjas" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T03:40:32.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="UrE6mjJ-VcH8gmVa06Rb" version="14.4.2" type="github">
   <diagram id="dPbhs_oIOpQgouJz8oUF" name="Page-1">
     <mxGraphModel dx="1117" dy="576" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1902,7 +1902,7 @@
             <mxPoint x="340.78999999999996" y="2825" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vivy3fCZkPX28TDsKvDE-382" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px&quot;&gt;$$r_x$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+        <mxCell id="Vivy3fCZkPX28TDsKvDE-382" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px&quot;&gt;$$\color{green}{r_x}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="208" y="2531" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-383" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;Pooling Layer&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
@@ -2490,7 +2490,7 @@
             <mxPoint x="739.79" y="2825" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vivy3fCZkPX28TDsKvDE-496" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px&quot;&gt;$$r_y$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
+        <mxCell id="Vivy3fCZkPX28TDsKvDE-496" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px&quot;&gt;$$\color{blue}{r_y}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="607" y="2531" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-497" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;Pooling Layer&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
