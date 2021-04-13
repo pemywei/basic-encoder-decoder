@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T03:26:29.166Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="JU4UcUXRksoQ4imjgjTQ" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T03:30:07.126Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="6CNl90ejXzPSxqlnHsdh" version="14.5.10" type="github">
   <diagram id="ampvSWe2Vp3wFjwjB7Au" name="Page-1">
-    <mxGraphModel dx="1346" dy="214" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="946" dy="214" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -589,8 +589,8 @@
         <mxCell id="LLGeSqwY7ttt7jOS4Rj7-112" value="&lt;font style=&quot;font-size: 24px&quot; face=&quot;Times New Roman&quot; color=&quot;#ff0000&quot;&gt;$$r_{x}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="71.5" y="789" width="56" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LLGeSqwY7ttt7jOS4Rj7-115" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot; color=&quot;#ea6b66&quot;&gt;&lt;b&gt;Pre-trained&lt;br&gt;Encoder&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-39" y="908.5" width="103" height="57" as="geometry" />
+        <mxCell id="LLGeSqwY7ttt7jOS4Rj7-115" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot; color=&quot;#ea6b66&quot;&gt;&lt;b&gt;Pre-trained Encoder&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="151.5" y="1149" width="181" height="28" as="geometry" />
         </mxCell>
         <mxCell id="LLGeSqwY7ttt7jOS4Rj7-117" value="" style="endArrow=classic;html=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=17;jumpSize=6;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1013,6 +1013,9 @@
               <mxPoint x="437" y="856" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LLGeSqwY7ttt7jOS4Rj7-230" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;font color=&quot;#67ab9f&quot;&gt;Randomly Initialized Decoder&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="526.5" y="1149" width="258" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
