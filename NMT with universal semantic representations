@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-13T05:56:03.451Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="JkhkAJIp0HfyuSzxY9Vo" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-13T05:56:10.413Z" agent="5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="NAcL6sxZdMrVefE9TdbU" version="14.5.10" type="github">
   <diagram id="ampvSWe2Vp3wFjwjB7Au" name="Page-1">
     <mxGraphModel dx="946" dy="214" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1017,7 +1017,7 @@
         <mxCell id="LLGeSqwY7ttt7jOS4Rj7-230" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;&lt;font color=&quot;#67ab9f&quot;&gt;Randomly Initialized Decoder&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="526.5" y="1141" width="258" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="LLGeSqwY7ttt7jOS4Rj7-231" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;Broadcastable Integration Network&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="LLGeSqwY7ttt7jOS4Rj7-231" value="&lt;b&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 14px&quot;&gt;Broadcastable Integration Network&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="466" y="728" width="336" height="29" as="geometry" />
         </mxCell>
         <mxCell id="LLGeSqwY7ttt7jOS4Rj7-234" value="" style="endArrow=classic;html=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=17;jumpSize=6;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="LLGeSqwY7ttt7jOS4Rj7-125" target="LLGeSqwY7ttt7jOS4Rj7-231" edge="1">
