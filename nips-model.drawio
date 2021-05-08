@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T06:03:12.011Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="Mgbr5auMNHe4e3J-XKCQ" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T06:03:58.412Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="KZQ1kq28LiNMPJcmTWcS" version="14.6.3" type="github">
   <diagram id="fsOf0FjV4G_plv9J03Zy" name="Page-1">
     <mxGraphModel dx="946" dy="-555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -259,34 +259,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ROoun5k54rdbkdzSo6Rq-47" value="&lt;font face=&quot;Times New Roman&quot;&gt;Linear&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=9;fillColor=#DBDFEF;" vertex="1" parent="1">
-          <mxGeometry x="498" y="1419" width="82" height="17" as="geometry" />
-        </mxCell>
         <mxCell id="ROoun5k54rdbkdzSo6Rq-48" value="&lt;font face=&quot;Times New Roman&quot;&gt;Softmax&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=9;fillColor=#CCE7CF;" vertex="1" parent="1">
-          <mxGeometry x="498" y="1381" width="82" height="17" as="geometry" />
+          <mxGeometry x="498" y="1424" width="82" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="ROoun5k54rdbkdzSo6Rq-49" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;&lt;b&gt;Cross Entropy Loss&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="475.74" y="1337" width="126.26" height="23" as="geometry" />
+        <mxCell id="ROoun5k54rdbkdzSo6Rq-49" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;&lt;b&gt;Ouput Probabilities&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475.74" y="1380" width="126.26" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="ROoun5k54rdbkdzSo6Rq-50" value="" style="endArrow=classic;html=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROoun5k54rdbkdzSo6Rq-39" target="ROoun5k54rdbkdzSo6Rq-47">
+        <mxCell id="ROoun5k54rdbkdzSo6Rq-50" value="" style="endArrow=classic;html=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROoun5k54rdbkdzSo6Rq-39" target="ROoun5k54rdbkdzSo6Rq-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="567" y="1651" as="sourcePoint" />
-            <mxPoint x="617" y="1601" as="targetPoint" />
+            <mxPoint x="539" y="1436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ROoun5k54rdbkdzSo6Rq-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;Add &amp;amp; Norm&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=9;fillColor=#F2F4C1;" vertex="1" parent="1">
           <mxGeometry x="498" y="1464" width="82" height="17" as="geometry" />
         </mxCell>
-        <mxCell id="ROoun5k54rdbkdzSo6Rq-52" value="" style="endArrow=classic;html=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROoun5k54rdbkdzSo6Rq-47" target="ROoun5k54rdbkdzSo6Rq-48">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="539" y="1422" as="sourcePoint" />
-            <mxPoint x="617" y="1553" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ROoun5k54rdbkdzSo6Rq-53" value="" style="endArrow=classic;html=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ROoun5k54rdbkdzSo6Rq-48" target="ROoun5k54rdbkdzSo6Rq-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="539" y="1378" as="sourcePoint" />
-            <mxPoint x="617" y="1553" as="targetPoint" />
+            <mxPoint x="539" y="1382" as="sourcePoint" />
+            <mxPoint x="617" y="1557" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ROoun5k54rdbkdzSo6Rq-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;Add &amp;amp; Norm&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=9;fillColor=#F2F4C1;" vertex="1" parent="1">
