@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T06:10:55.327Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="d2VW0Q_6NvecjFlASZIO" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T06:11:22.007Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="jDJq_el6LN02795J6GIj" version="14.6.3" type="github">
   <diagram id="fsOf0FjV4G_plv9J03Zy" name="Page-1">
     <mxGraphModel dx="946" dy="-555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -19,8 +19,8 @@
         <mxCell id="ROoun5k54rdbkdzSo6Rq-5" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#F3F3F4;arcSize=9;" vertex="1" parent="1">
           <mxGeometry x="102.5" y="1588" width="140.5" height="194" as="geometry" />
         </mxCell>
-        <mxCell id="ROoun5k54rdbkdzSo6Rq-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px&quot;&gt;$$\mathbf{x}$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=9;fillColor=#E1D5E7;" vertex="1" parent="1">
-          <mxGeometry x="148" y="1838" width="82" height="33" as="geometry" />
+        <mxCell id="ROoun5k54rdbkdzSo6Rq-6" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px&quot;&gt;$$\mathbf{x}$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=9;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="166" y="1838" width="46" height="33" as="geometry" />
         </mxCell>
         <mxCell id="ROoun5k54rdbkdzSo6Rq-7" value="&lt;font face=&quot;Times New Roman&quot;&gt;Multi-Head&lt;br&gt;Attention&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=9;fillColor=#FFE2BB;" vertex="1" parent="1">
           <mxGeometry x="148" y="1708" width="82" height="33" as="geometry" />
