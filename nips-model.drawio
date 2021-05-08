@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-08T06:05:30.544Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="oz9nXl0URMunPFlLU7uN" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-08T06:05:39.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="8k1k1KZDVkuL1zQ8ft67" version="14.6.3" type="github">
   <diagram id="fsOf0FjV4G_plv9J03Zy" name="Page-1">
     <mxGraphModel dx="946" dy="-555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -350,7 +350,7 @@
           <mxGeometry x="375" y="1760.5" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ROoun5k54rdbkdzSo6Rq-71" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$\{\hat{r}_x^{(1)},\hat{r}_x^{(2)}&lt;br&gt;,...,\hat{r}_x^{(K)}&lt;br&gt;\}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="305.25" y="1672.5" width="122.5" height="20" as="geometry" />
+          <mxGeometry x="305.25" y="1669.5" width="122.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ROoun5k54rdbkdzSo6Rq-72" value="" style="endArrow=classic;html=1;strokeColor=#EA6B66;strokeWidth=1;fontSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ROoun5k54rdbkdzSo6Rq-6" target="ROoun5k54rdbkdzSo6Rq-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
