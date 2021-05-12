@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T03:55:27.811Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="XAOSsParzcxgQLXaRzBa" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-12T03:56:29.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="qlD-Q4-mHHuEsRukoJw9" version="14.6.3" type="github">
   <diagram id="blv5_ZdXRcWsS6tgFCRy" name="Page-1">
-    <mxGraphModel dx="450" dy="-877" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="652" dy="-746" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,8 +64,8 @@
             <mxPoint x="303.25" y="1986.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NrOy4aeaFnWakyzEMCqW-29" value="$$\zeta \odot r$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="365.13" y="1991" width="34.5" height="8" as="geometry" />
+        <mxCell id="NrOy4aeaFnWakyzEMCqW-29" value="$$\zeta \odot r$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=6;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="365.13" y="1991" width="34.87" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
