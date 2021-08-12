@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-12T03:08:21.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JQAoGiMyb6XA9F0ELiQ7" version="14.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T03:08:34.869Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="3DcXzpaYlVjMwLlp6ajZ" version="14.9.1" type="github">
   <diagram id="dPbhs_oIOpQgouJz8oUF" name="Page-1">
     <mxGraphModel dx="1751" dy="877" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -5422,9 +5422,6 @@
         <mxCell id="C1tYh1_ZWJKKcS7kRpd9-150" value="$$r_y$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="992" y="6813.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="C1tYh1_ZWJKKcS7kRpd9-151" value="&lt;font style=&quot;font-size: 14px&quot;&gt;$$\{\hat{r}_x^{(1)},\hat{r}_x^{(2)}&lt;br&gt;,...,\hat{r}_x^{(K)}&lt;br&gt;\}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="380.75" y="7038.5" width="122.5" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="C1tYh1_ZWJKKcS7kRpd9-152" value="" style="endArrow=classic;html=1;strokeColor=#EA6B66;strokeWidth=1;fontSize=11;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C1tYh1_ZWJKKcS7kRpd9-86" target="C1tYh1_ZWJKKcS7kRpd9-141">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="508.5" y="7260" as="sourcePoint" />
@@ -5441,25 +5438,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="443" y="7196" as="sourcePoint" />
             <mxPoint x="443" y="7180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C1tYh1_ZWJKKcS7kRpd9-155" value="&lt;font color=&quot;#ea6b66&quot; face=&quot;Times New Roman&quot; style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;&lt;i&gt;Adversarial Semantic Boundary Learning&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="332.5" y="6997" width="219" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="C1tYh1_ZWJKKcS7kRpd9-157" value="" style="endArrow=classic;html=1;strokeColor=#EA6B66;strokeWidth=1;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="C1tYh1_ZWJKKcS7kRpd9-151" target="C1tYh1_ZWJKKcS7kRpd9-155">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="508.5" y="7100" as="sourcePoint" />
-            <mxPoint x="558.5" y="7050" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C1tYh1_ZWJKKcS7kRpd9-158" value="" style="endArrow=classic;html=1;strokeColor=#EA6B66;strokeWidth=1;fontSize=11;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jumpSize=4;" edge="1" parent="1" target="C1tYh1_ZWJKKcS7kRpd9-139">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="526.5" y="7049" as="sourcePoint" />
-            <mxPoint x="502.25" y="7230.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="549.5" y="7049" />
-              <mxPoint x="549.5" y="7014" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="C1tYh1_ZWJKKcS7kRpd9-159" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Human Data&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
