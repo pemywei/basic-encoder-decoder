@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T05:14:40.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="M5oMGt38qVt-NRQiKIg1" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-08T05:15:11.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="x1gycfhbPQJHwfireEP6" version="15.7.3" type="github">
   <diagram id="EehtQbO3yPQqAMzrE0Uf" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -684,7 +684,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5-VJ51uIHLFBlEif8_Q9-32" value="&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 18px&quot;&gt;(c) Multi-channel Attention&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="5-VJ51uIHLFBlEif8_Q9-32" value="&lt;span style=&quot;font-family: &amp;#34;times new roman&amp;#34; ; font-size: 18px&quot;&gt;Calibration with Gaussian Clustering&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="283" y="1586" width="313" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5-VJ51uIHLFBlEif8_Q9-33" value="$$h_1$$" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
