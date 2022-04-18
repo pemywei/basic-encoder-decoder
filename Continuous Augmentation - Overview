@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T08:08:03.458Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="WxuWE6wkRKI1zuKfCZ-V" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T08:08:24.634Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="B3K3fsSs0NA6qxDtPoLk" version="16.6.1" type="github">
   <diagram id="dPbhs_oIOpQgouJz8oUF" name="Page-1">
-    <mxGraphModel dx="1746" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1346" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -5488,8 +5488,8 @@
         <mxCell id="WmxCfGmyI1xpcpv2-rce-129" value="&lt;span style=&quot;font-size: 18px&quot;&gt;$$r_{x^{\prime(j)}} = r_{x^{(i)}} + {\lambda}_x (r_{x^{(j)}}-r_{x^{(i)}}), {\lambda}_x \in (\frac{d}{d_x^{\prime}},1]$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="-4.75" y="3967" width="427" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="WmxCfGmyI1xpcpv2-rce-131" value="&lt;span style=&quot;font-size: 18px&quot;&gt;$$r_{y^{\prime(j)}} = r_{y^{(i)}} + {\lambda}_y (r_{y^{(j)}}-r_{y^{(i)}}), {\lambda}_y \in (\frac{d}{d_y^{\prime}},1]$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="-4.75" y="4025" width="427" height="58" as="geometry" />
+        <mxCell id="WmxCfGmyI1xpcpv2-rce-131" value="&lt;span style=&quot;font-size: 12px&quot;&gt;$$J_{ctl}(\Theta^{\prime}) = \mathbb{E}_{(\mathbf{x}^{(i)},\mathbf{y}^{(i)}) \sim \mathcal{B}} \bigg( \log \frac{e^{s \big( r_{x^{(i)}},r_{y^{(i)}} \big) }}{e^{s \big( r_{x^{(i)}},r_{y^{(i)}} \big) } + \xi} \bigg)$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="-4.75" y="4025" width="427" height="97" as="geometry" />
         </mxCell>
         <mxCell id="WmxCfGmyI1xpcpv2-rce-132" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;fontSize=11;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="447.5" y="3645" width="63" height="40" as="geometry" />
@@ -5541,9 +5541,6 @@
         </mxCell>
         <mxCell id="WmxCfGmyI1xpcpv2-rce-161" value="&lt;span style=&quot;font-size: 18px&quot;&gt;$$r_{y^{\prime(5)}}$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="833" y="3835.5" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="WmxCfGmyI1xpcpv2-rce-162" value="$$J_{ctl}(\Theta^{\prime}) = \mathbb{E}_{(\mathbf{x}^{(i)},\mathbf{y}^{(i)}) \sim \mathcal{B}} \bigg( \log \frac{e^{s \big( r_{x^{(i)}},r_{y^{(i)}} \big) }}{e^{s \big( r_{x^{(i)}},r_{y^{(i)}} \big) } + \xi} \bigg)$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-547.01" y="4182" width="1038" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
