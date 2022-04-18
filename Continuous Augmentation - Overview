@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T09:40:17.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="5gxNso2GRWcYTRSakrdu" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T09:41:17.035Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="lKJFwIdoga-oxpZV4dIe" version="16.6.1" type="github">
   <diagram id="dPbhs_oIOpQgouJz8oUF" name="Page-1">
     <mxGraphModel dx="1513" dy="722" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -5683,8 +5683,8 @@
         <mxCell id="WmxCfGmyI1xpcpv2-rce-210" value="$$\omega \odot \tilde{r}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="461.5" y="2179" width="14.5" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="WmxCfGmyI1xpcpv2-rce-211" value="$$\hat{r}_x = r_x + \omega \odot \tilde{r}$$" style="text;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="156.71" y="2012" width="109.29" height="38" as="geometry" />
+        <mxCell id="WmxCfGmyI1xpcpv2-rce-211" value="$$\omega_i \in [-1,1]$$" style="text;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="156.71" y="2012" width="81.29" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
