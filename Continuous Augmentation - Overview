@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T07:28:19.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="a_tcsdz_DUbGAiwb71ON" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T07:31:01.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="SmTxZ7VTk6oyBhUdN7mv" version="16.6.1" type="github">
   <diagram id="dPbhs_oIOpQgouJz8oUF" name="Page-1">
     <mxGraphModel dx="1346" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WmxCfGmyI1xpcpv2-rce-44" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;fontSize=11;opacity=40;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="509" y="3274" width="247" height="157" as="geometry" />
+        </mxCell>
         <mxCell id="Vivy3fCZkPX28TDsKvDE-558" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#e1d5e7;fontSize=11;opacity=40;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="79" y="2912" width="247" height="344" as="geometry" />
         </mxCell>
@@ -5323,9 +5326,6 @@
             <mxPoint x="689.5" y="3172.0000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WmxCfGmyI1xpcpv2-rce-44" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#d5e8d4;fontSize=11;opacity=40;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="509" y="3274" width="247" height="157" as="geometry" />
-        </mxCell>
         <mxCell id="WmxCfGmyI1xpcpv2-rce-45" value="&lt;font style=&quot;font-size: 18px&quot; face=&quot;Times New Roman&quot;&gt;Synthetic Negative Samples&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="520" y="3286" width="219" height="20" as="geometry" />
         </mxCell>
@@ -5493,6 +5493,12 @@
         </mxCell>
         <mxCell id="WmxCfGmyI1xpcpv2-rce-131" value="&lt;span style=&quot;font-size: 18px&quot;&gt;$$r_{y^{\prime(j)}} = r_{y^{(i)}} + {\lambda}_y (r_{y^{(j)}}-r_{y^{(i)}}), {\lambda}_y \in (\frac{d}{d_y^{\prime}},1]$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="-4.75" y="4025" width="427" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="WmxCfGmyI1xpcpv2-rce-132" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;fontSize=11;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="460.5" y="3648" width="63" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WmxCfGmyI1xpcpv2-rce-133" value="&lt;font style=&quot;font-size: 18px&quot;&gt;$$r_{x^{\prime(1)}}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
+          <mxGeometry x="472" y="3658" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
