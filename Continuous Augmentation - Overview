@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T06:33:34.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="rQTFUkLP5LwKMciI3J17" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T06:33:51.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="ohseXiE-Olcv2H9CNp_C" version="16.6.1" type="github">
   <diagram id="dPbhs_oIOpQgouJz8oUF" name="Page-1">
     <mxGraphModel dx="1346" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -2485,7 +2485,7 @@
         <mxCell id="Vivy3fCZkPX28TDsKvDE-500" value="&lt;font style=&quot;font-size: 18px&quot;&gt;$$s(r_x,r_y)=\frac{r_x^Tr_y}{||r_x|| \cdot ||r_y||}$$&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" parent="1" vertex="1">
           <mxGeometry x="297" y="2423" width="251" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="Vivy3fCZkPX28TDsKvDE-503" value="" style="endArrow=classic;html=1;strokeColor=#B85450;strokeWidth=2;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jumpSize=0;" parent="1" source="Vivy3fCZkPX28TDsKvDE-382" target="Vivy3fCZkPX28TDsKvDE-500" edge="1">
+        <mxCell id="Vivy3fCZkPX28TDsKvDE-503" value="" style="endArrow=classic;html=1;strokeColor=#B85450;strokeWidth=2;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jumpSize=0;rounded=0;" parent="1" source="Vivy3fCZkPX28TDsKvDE-382" target="Vivy3fCZkPX28TDsKvDE-500" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="267" y="2473" as="sourcePoint" />
             <mxPoint x="517" y="2607" as="targetPoint" />
@@ -2494,7 +2494,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vivy3fCZkPX28TDsKvDE-504" value="" style="endArrow=classic;html=1;strokeColor=#B85450;strokeWidth=2;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vivy3fCZkPX28TDsKvDE-496" target="Vivy3fCZkPX28TDsKvDE-500" edge="1">
+        <mxCell id="Vivy3fCZkPX28TDsKvDE-504" value="" style="endArrow=classic;html=1;strokeColor=#B85450;strokeWidth=2;fontSize=11;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" parent="1" source="Vivy3fCZkPX28TDsKvDE-496" target="Vivy3fCZkPX28TDsKvDE-500" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="238" y="2489.9999999999995" as="sourcePoint" />
             <mxPoint x="307" y="2452.5000000000005" as="targetPoint" />
