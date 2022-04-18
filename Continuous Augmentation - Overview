@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T07:28:12.690Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="uPI_fgRj9sl_JwFIwkO8" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T07:28:19.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="a_tcsdz_DUbGAiwb71ON" version="16.6.1" type="github">
   <diagram id="dPbhs_oIOpQgouJz8oUF" name="Page-1">
     <mxGraphModel dx="1346" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -5489,10 +5489,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WmxCfGmyI1xpcpv2-rce-129" value="&lt;span style=&quot;font-size: 18px&quot;&gt;$$r_{x^{\prime(j)}} = r_{x^{(i)}} + {\lambda}_x (r_{x^{(j)}}-r_{x^{(i)}}), {\lambda}_x \in (\frac{d}{d_x^{\prime}},1]$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="79.76" y="3994" width="427" height="58" as="geometry" />
+          <mxGeometry x="-4.75" y="3967" width="427" height="58" as="geometry" />
         </mxCell>
         <mxCell id="WmxCfGmyI1xpcpv2-rce-131" value="&lt;span style=&quot;font-size: 18px&quot;&gt;$$r_{y^{\prime(j)}} = r_{y^{(i)}} + {\lambda}_y (r_{y^{(j)}}-r_{y^{(i)}}), {\lambda}_y \in (\frac{d}{d_y^{\prime}},1]$$&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="79.76" y="4052" width="427" height="58" as="geometry" />
+          <mxGeometry x="-4.75" y="4025" width="427" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
