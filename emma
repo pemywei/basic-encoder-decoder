@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T06:27:36.758Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="QUCE7F3J9TjT6pWdcRv7" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T06:28:34.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="45rwVQ76RJWEHgyc8cqQ" version="18.1.2" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
     <mxGraphModel dx="4011" dy="-314" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-133" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;strokeColor=#666666;fillColor=#F9F9F9;fontColor=#333333;arcSize=5;dashed=1;opacity=50;" vertex="1" parent="1">
-          <mxGeometry x="-1648.56" y="1372" width="384.13" height="176" as="geometry" />
-        </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;strokeColor=#666666;fillColor=#F9F9F9;fontColor=#333333;arcSize=5;dashed=1;opacity=40;" vertex="1" parent="1">
           <mxGeometry x="-1202.29" y="1372" width="368" height="176" as="geometry" />
         </mxCell>
@@ -551,6 +548,12 @@
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-132" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$\bf \mu_3, \sigma_3$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1346.99" y="1475" width="42.73" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-133" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;strokeColor=#666666;fillColor=#F9F9F9;fontColor=#333333;arcSize=5;dashed=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="-1648.56" y="1372" width="384.13" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-143" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$ \Theta_{\mathcal{G}}^{\color{red} t} \gets \Theta_{\mathcal{G}}^{\color{red} {t-1}} - \eta \times \nabla_{\Theta_{\mathcal{G}}} \mathcal{L}_{\rm GMM}(\Theta_{\mathcal{G}}) $$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1574.57" y="1521" width="227.29" height="22" as="geometry" />
+        </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-134" value="$$\bf \gamma^{(q)} \circ \gamma^{(\kappa_3)}&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1626.72" y="1427" width="58.53" height="22" as="geometry" />
         </mxCell>
@@ -586,9 +589,6 @@
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-142" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=16;fillColor=#7EA6E0;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1523.72" y="1416" width="7" height="7" as="geometry" />
-        </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-143" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$ \Theta_{\mathcal{G}}^{\color{red} t} \gets \Theta_{\mathcal{G}}^{\color{red} {t-1}} - \eta \times \nabla_{\Theta_{\mathcal{G}}} \mathcal{L}_{\rm GMM}(\Theta_{\mathcal{G}}) $$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1574.57" y="1521" width="227.29" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
