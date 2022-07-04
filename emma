@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T02:52:01.408Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="LDvSi5o3pUFIl92vsGD8" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T02:56:53.040Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="VAmOhOF9WW8vFOLtpb1M" version="19.0.3" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
-    <mxGraphModel dx="4912" dy="189" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="4203" dy="-207" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -496,7 +496,7 @@
             <mxPoint x="-1192.29" y="1561" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-118" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$ \Theta_{\mathcal{M}}^{\color{red} t} \gets \Theta_{\mathcal{M}}^{\color{red} {t-1}} - \eta \times \nabla_{\Theta_{\mathcal{M}}} \mathcal{L}_{\rm CTL}(\Theta_{\mathcal{M}}) $$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-118" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$ \Theta_{\mathcal{M}}^{\color{red} t} \gets \Theta_{\mathcal{M}}^{\color{red} {t-1}} - \eta \times \nabla_{\Theta_{\mathcal{M}}} \mathcal{Q}_{\rm CTL}(\Theta_{\mathcal{M}}) $$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1133.23" y="1521" width="227.29" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-119" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;exitX=0;exitY=0;exitDx=0;exitDy=0;endFill=0;strokeWidth=2;strokeColor=#FF6666;" parent="1" edge="1">
