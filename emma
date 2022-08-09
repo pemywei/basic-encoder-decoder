@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T02:59:59.702Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="V5F3Xm_QvU74uxnTUqP9" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T11:17:01.540Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="3LdAh0we67iOWeW58cZA" version="20.1.1" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
-    <mxGraphModel dx="4203" dy="-207" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3733" dy="-470" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-133" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;strokeColor=#666666;fillColor=#F9F9F9;fontColor=#333333;arcSize=5;dashed=1;opacity=50;" parent="1" vertex="1">
+          <mxGeometry x="-1648.56" y="1372" width="384.13" height="176" as="geometry" />
+        </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-124" value="" style="endArrow=none;html=1;shadow=0;sketch=1;fontFamily=Times New Roman;fontSize=14;startSize=3;endSize=3;strokeColor=#7EA6E0;strokeWidth=1;curved=1;elbow=vertical;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1454.7200000000003" y="1505" as="sourcePoint" />
@@ -541,9 +544,6 @@
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-132" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$\bf \mu_3, \sigma_3$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1346.99" y="1475" width="42.73" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-133" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;strokeColor=#666666;fillColor=#F9F9F9;fontColor=#333333;arcSize=5;dashed=1;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="-1648.56" y="1372" width="384.13" height="176" as="geometry" />
-        </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-143" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$ \Theta_{\mathcal{G}}^{\color{red} t} \gets \Theta_{\mathcal{G}}^{\color{red} {t-1}} - \eta \times \nabla_{\Theta_{\mathcal{G}}} \mathcal{Q}_{\rm GMM}(\Theta_{\mathcal{G}}) $$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1574.57" y="1521" width="227.29" height="22" as="geometry" />
         </mxCell>
@@ -587,6 +587,18 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1472.435" y="1438" as="sourcePoint" />
             <mxPoint x="-1455.3748737342348" y="1459.0251262657653" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJQEamek-u-o1qiwNd9X-1" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;curved=1;strokeColor=#333333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1420" y="2029" as="sourcePoint" />
+            <mxPoint x="-1275" y="2029" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iJQEamek-u-o1qiwNd9X-4" value="" style="endArrow=classic;html=1;fontFamily=Comic Sans MS;curved=1;strokeColor=#333333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1402.8" y="2043" as="sourcePoint" />
+            <mxPoint x="-1403.0000000000002" y="1908" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
