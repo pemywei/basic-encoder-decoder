@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T06:13:38.090Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="B_ssueHfiLAvSioIXGrb" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T06:13:44.683Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="BKbACudRva5PO-gs8OZ9" version="20.2.4" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
     <mxGraphModel dx="3427" dy="-555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -362,7 +362,7 @@
           <mxGeometry x="-1644.81" y="1576" width="125.02" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-84" value="$$\mathcal{C}(\gamma^{(\rm x)} \circ \gamma^{(\kappa_3)})=3 | _{p=0.8}&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=#DDEAFF;" parent="1" vertex="1">
-          <mxGeometry x="-1358.9099999999999" y="1876" width="124.13" height="22" as="geometry" />
+          <mxGeometry x="-1391.79" y="1576" width="124.13" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\Theta_{\mathcal{G}}^{t-1}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-1558.81" y="1732" width="202" height="12" as="geometry" />
