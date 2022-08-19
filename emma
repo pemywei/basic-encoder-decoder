@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T06:05:18.428Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="XiDGbD2FJeNL4VtpVvL0" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T06:05:36.740Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="nG9BfUes3MRTxOmDkbT1" version="20.2.4" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
     <mxGraphModel dx="3427" dy="-555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -82,8 +82,8 @@
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\Theta_{\mathcal{M}}^{t-1}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;fontFamily=Times New Roman;" parent="5XDR1Y2ZfNh-KPmnLjNU-8" vertex="1">
           <mxGeometry x="69.5" y="34.47000000000003" width="204" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$ \bf x^{(\kappa_1)}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1140.5" y="1769.33" width="168" height="22" as="geometry" />
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-11" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$ \bf{\kappa_1}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-1135.5" y="1765.33" width="146" height="31" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$\bf x^{(\kappa_2)}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-1045.44" y="1768.33" width="164" height="22" as="geometry" />
