@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T06:27:43.615Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3-RQpcZTMeNMS346aKb9" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T06:28:12.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="8AhM-S4jKmGYiHTVpSA-" version="20.2.4" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
     <mxGraphModel dx="3427" dy="-555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -352,13 +352,13 @@
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-80" value="$$s(\gamma^{(\rm x)},\gamma^{(\kappa_1)})=0.52&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=auto;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=#DCF0DB;" parent="1" vertex="1">
           <mxGeometry x="-1197.78" y="1576" width="116.99" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-81" value="$$s(\gamma^{(\rm x)},\gamma^{(\kappa_3)})=0.08&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=auto;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=#DDEAFF;" parent="1" vertex="1">
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-81" value="$$\mathcal{S}(\gamma^{(\rm x)},\gamma^{(\kappa_3)})=0.08&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=auto;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=#DDEAFF;" parent="1" vertex="1">
           <mxGeometry x="-949.79" y="1576" width="112" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-82" value="$$\mathcal{C}(\gamma^{(\rm x)} \circ \gamma^{(\kappa_2)})=0 | _{p=0.9}&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=auto;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=#FFD4D2;" parent="1" vertex="1">
           <mxGeometry x="-1515.76" y="1576" width="120.53" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-83" value="$$p_{\mathcal{G}}(c=1|\gamma^{(\rm x)}, \gamma^{(\kappa_1)})=0.6&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=auto;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=#DCF0DB;" parent="1" vertex="1">
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-83" value="$$\mathcal{C}(\gamma^{(\rm x)} \circ \gamma^{(\kappa_1)})=1 | _{p=0.6}&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=auto;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=#DCF0DB;" parent="1" vertex="1">
           <mxGeometry x="-1644.81" y="1576" width="125.02" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-84" value="$$\mathcal{C}(\gamma^{(\rm x)} \circ \gamma^{(\kappa_3)})=3 | _{p=0.8}&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=auto;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=#DDEAFF;" parent="1" vertex="1">
