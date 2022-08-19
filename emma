@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-19T06:07:01.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="5FAjle8R2kz_LFLY7Mj0" version="20.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-19T06:07:18.254Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TZg-5c-_G4cy8MI-y2M1" version="20.2.4" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
     <mxGraphModel dx="3427" dy="-555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -202,14 +202,14 @@
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-42" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;GMM Classifier&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-1632.42" y="1697.5299999999997" width="343" height="52.8" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(q)} \circ \gamma^{(\kappa_1)}&lt;br&gt;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1717" y="1758.58" width="282" height="38" as="geometry" />
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(x)} \circ \gamma^{(\kappa_1)}&lt;br&gt;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-1721" y="1754.58" width="290" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(q)} \circ \gamma^{(\kappa_2)}&lt;br&gt;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1597" y="1758" width="282" height="38" as="geometry" />
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(x)} \circ \gamma^{(\kappa_2)}&lt;br&gt;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-1601" y="1754" width="290" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(q)} \circ \gamma^{(\kappa_3)}&lt;br&gt;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1473" y="1758" width="282" height="38" as="geometry" />
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(x)} \circ \gamma^{(\kappa_3)}&lt;br&gt;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-1477" y="1754" width="290" height="46" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-46" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;exitX=0.46;exitY=-0.115;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
