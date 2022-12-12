@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T08:59:50.845Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="YBxuySVze79iDy3SY7Jw" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T09:00:19.623Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="AifHc0kCqu6ReN33uY2i" version="20.6.2" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
     <mxGraphModel dx="3427" dy="-555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -553,7 +553,7 @@
             <mxPoint x="-1471.7200000000003" y="1384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-134" value="$$\bf \gamma^{(x)} \circ \gamma^{(\mathbf{y}&lt;br&gt;_3)}&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-134" value="$$\bf \gamma^{(\mathbf{x})} \circ \gamma^{(\mathbf{y}&lt;br&gt;_3)}&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1626.72" y="1427" width="58.53" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-135" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;exitX=1;exitY=0.25;exitDx=0;exitDy=0;endFill=1;strokeWidth=1;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5XDR1Y2ZfNh-KPmnLjNU-134" target="5XDR1Y2ZfNh-KPmnLjNU-142" edge="1">
@@ -562,13 +562,13 @@
             <mxPoint x="-1436.6948737340224" y="1460.0251262659776" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-139" value="$$\bf \gamma^{(x)} \circ \gamma^{(\kappa_1)}&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-139" value="$$\bf \gamma^{(\mathbf{x}&lt;br&gt;)} \circ \gamma^{(\mathbf{y}&lt;br&gt;_1)}&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1495.68" y="1421" width="58.53" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-142" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=16;fillColor=#7EA6E0;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1523.72" y="1416" width="7" height="7" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-136" value="$$\bf \gamma^{(x)} \circ \gamma^{(\mathbf{y}&lt;br&gt;_2)}&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-136" value="$$\bf \gamma^{(\mathbf{x}&lt;br&gt;)} \circ \gamma^{(\mathbf{y}&lt;br&gt;_2)}&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1465.02" y="1373" width="58.53" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-137" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=16;fillColor=#FF6666;strokeColor=none;" parent="1" vertex="1">
