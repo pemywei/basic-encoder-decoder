@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T06:02:05.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="oycQlkyj27lwQsYiYn75" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T06:04:08.565Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="407Cb8vV0jmruliQJmBh" version="20.6.2" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
     <mxGraphModel dx="3427" dy="-555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -349,7 +349,7 @@
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-79" value="$$s(\gamma^{(\rm x)},\gamma^{(\kappa_2)})=0.81&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=auto;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=#FFD4D2;" parent="1" vertex="1">
           <mxGeometry x="-1073.84" y="1576" width="116" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-80" value="$$s(\gamma^{(\rm x)},\gamma^{(\kappa_1)})=0.52&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=auto;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=#DCF0DB;" parent="1" vertex="1">
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-80" value="$$c^*|s(\gamma^{(\rm x)},\gamma^{(y_1)})=0.52&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=auto;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=#DCF0DB;" parent="1" vertex="1">
           <mxGeometry x="-1197.78" y="1576" width="116.99" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-81" value="$$s(\gamma^{(\rm x)},\gamma^{(\kappa_3)})=0.08&lt;br style=&quot;font-size: 10px;&quot;&gt;$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=auto;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=#DDEAFF;" parent="1" vertex="1">
