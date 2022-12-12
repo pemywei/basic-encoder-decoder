@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T08:56:58.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LUn2p0QOI5_pN17fy0lZ" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T08:57:31.494Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ocHNz9V5XkHBxtxg-2mv" version="20.6.2" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
     <mxGraphModel dx="3427" dy="-555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -514,7 +514,7 @@
             <mxPoint x="-1341.7200000000003" y="1509" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-126" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$\bf \mu_0, \sigma_0$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-126" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$\bf \mu_1, \sigma_1$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1349.72" y="1399" width="42.73" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-127" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;exitX=0;exitY=0;exitDx=0;exitDy=0;endFill=0;strokeWidth=2;strokeColor=#97D077;" parent="1" edge="1">
@@ -523,7 +523,7 @@
             <mxPoint x="-1284.4300000000003" y="1434" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-128" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$\bf \mu_1, \sigma_1$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-128" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$\bf \mu_2, \sigma_2$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1349.16" y="1423" width="42.73" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-129" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;exitX=0;exitY=0;exitDx=0;exitDy=0;endFill=0;strokeWidth=2;strokeColor=#990000;" parent="1" edge="1">
@@ -532,7 +532,7 @@
             <mxPoint x="-1283.9899999999998" y="1459" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-130" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$\bf \mu_2, \sigma_2$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-130" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$\bf \mu_3, \sigma_3$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1348.72" y="1448" width="42.73" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-131" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;exitX=0;exitY=0;exitDx=0;exitDy=0;endFill=0;strokeWidth=2;strokeColor=#7EA6E0;" parent="1" edge="1">
@@ -541,7 +541,7 @@
             <mxPoint x="-1282.2600000000002" y="1486" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-132" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$\bf \mu_3, \sigma_3$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-132" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$\bf \mu_4, \sigma_4$$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1346.99" y="1475" width="42.73" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-143" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$ \Theta_{\mathcal{G}}^{\color{red} t} \gets \Theta_{\mathcal{G}}^{\color{red} {t-1}} - \eta \times \nabla_{\Theta_{\mathcal{G}}} \mathcal{L}_{\rm MLE}(\Theta_{\mathcal{G}}) $$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
