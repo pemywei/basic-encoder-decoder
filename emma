@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T06:01:37.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ciOyW1hgScFGJuJYo7pD" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T06:02:05.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="oycQlkyj27lwQsYiYn75" version="20.6.2" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
     <mxGraphModel dx="3427" dy="-555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -190,14 +190,14 @@
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-38" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\mathbf{\gamma^{(x)}}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="-1234.78" y="1626" width="184" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(\kappa_1)}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1147.28" y="1630" width="183" height="21" as="geometry" />
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-39" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(y_1)}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-1135.28" y="1626" width="160" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(\kappa_2)}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1054.22" y="1630" width="183" height="21" as="geometry" />
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(y_2)}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-1042.22" y="1626" width="160" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(\kappa_3)}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-969.37" y="1630" width="183" height="21" as="geometry" />
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(y_3)}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-957.37" y="1626" width="160" height="29" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-42" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;GMM Classifier&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-1632.42" y="1697.5299999999997" width="343" height="52.8" as="geometry" />
