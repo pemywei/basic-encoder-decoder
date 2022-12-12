@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T08:56:44.706Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="vdtUv0_VsXCI7cMsVJDo" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-12T08:56:58.225Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="LUn2p0QOI5_pN17fy0lZ" version="20.6.2" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
     <mxGraphModel dx="3427" dy="-555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -370,12 +370,6 @@
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-86" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1103.79" y="1380" width="118.74000000000001" height="129" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-87" value="$$\bf \gamma^{(\mathbf{y}&lt;br&gt;_1)}$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=none;" parent="5XDR1Y2ZfNh-KPmnLjNU-86" vertex="1">
-          <mxGeometry x="10.190000000000055" y="67" width="22.94" height="22" as="geometry" />
-        </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-88" value="$$\bf \gamma^{(\mathbf{y}&lt;br&gt;_3)}$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=none;" parent="5XDR1Y2ZfNh-KPmnLjNU-86" vertex="1">
-          <mxGeometry x="10.190000000000055" y="102" width="22.94" height="22" as="geometry" />
-        </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-89" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;fontSize=16;fillColor=#B9E0A5;strokeColor=#B9E0A5;" parent="5XDR1Y2ZfNh-KPmnLjNU-86" vertex="1">
           <mxGeometry x="41.02999999999997" y="72" width="12" height="12" as="geometry" />
         </mxCell>
@@ -420,6 +414,12 @@
             <mxPoint x="47.73999999999978" y="30" as="sourcePoint" />
             <mxPoint x="47.73999999999978" y="20" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-87" value="$$\bf \gamma^{(\mathbf{y}&lt;br&gt;_1)}$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=none;" parent="5XDR1Y2ZfNh-KPmnLjNU-86" vertex="1">
+          <mxGeometry x="10.190000000000055" y="67" width="22.94" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-88" value="$$\bf \gamma^{(\mathbf{y}&lt;br&gt;_3)}$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=none;" parent="5XDR1Y2ZfNh-KPmnLjNU-86" vertex="1">
+          <mxGeometry x="10.190000000000055" y="102" width="22.94" height="22" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-98" value="$$\bf \gamma^{(x)}$$" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=10;strokeColor=none;fillColor=none;" parent="5XDR1Y2ZfNh-KPmnLjNU-86" vertex="1">
           <mxGeometry x="9.740000000000009" y="3" width="22.94" height="22" as="geometry" />
