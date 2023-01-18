@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-12T09:07:20.042Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yvj316gtvf_LVT-7hEzv" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T14:50:45.808Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="3yn0MMBR59S6hoBg-fJd" version="20.6.2" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
     <mxGraphModel dx="3427" dy="-555" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -202,14 +202,14 @@
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-42" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;GMM Classifier&lt;br&gt;&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="-1632.42" y="1697.5299999999997" width="343" height="52.8" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(\mathbf{x})} \circ \gamma^{(\mathbf{y}_1)}&lt;br&gt;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1762" y="1754.58" width="374" height="46" as="geometry" />
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(\mathbf{x})} - \gamma^{(\mathbf{y}_1)}&lt;br&gt;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-1752" y="1754.58" width="354" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(\mathbf{x})} \circ \gamma^{(\mathbf{y}_2)}&lt;br&gt;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1642" y="1754" width="374" height="46" as="geometry" />
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(\mathbf{x})} -\gamma^{(\mathbf{y}_2)}&lt;br&gt;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-1629" y="1754" width="350" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(\mathbf{x})} \circ \gamma^{(\mathbf{y}_3)}&lt;br&gt;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1519" y="1754" width="374" height="46" as="geometry" />
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\bf \gamma^{(\mathbf{x})} -\gamma^{(\mathbf{y}_3)}&lt;br&gt;$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="-1507" y="1754" width="350" height="46" as="geometry" />
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-46" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;exitX=0.46;exitY=-0.115;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;strokeWidth=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
