@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T08:43:55.997Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="F5aR8_8K4lqSr2-o4N9m" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T08:45:18.048Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yyPJO2QZA42yJK1wVepA" version="20.8.5" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
     <mxGraphModel dx="3435" dy="-553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -592,12 +592,6 @@
         <mxCell id="-V3ER36qa7a0yzEx8tnA-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$\bf x$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1621.48" y="2032.8" width="80" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="-V3ER36qa7a0yzEx8tnA-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-1621.27" y="1933" width="343" height="95.47" as="geometry" />
-        </mxCell>
-        <mxCell id="-V3ER36qa7a0yzEx8tnA-4" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Bidirectional Encoder&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE5D4;strokeColor=#F4B183;sketch=0;" vertex="1" parent="-V3ER36qa7a0yzEx8tnA-3">
-          <mxGeometry width="343.00000000000006" height="80.691788058268" as="geometry" />
-        </mxCell>
         <mxCell id="-V3ER36qa7a0yzEx8tnA-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$ \bf{y_1}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1548.98" y="2033.8" width="111" height="31" as="geometry" />
         </mxCell>
@@ -631,8 +625,11 @@
             <mxPoint x="-1320.4799999999996" y="2020.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-V3ER36qa7a0yzEx8tnA-35" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;GMM Classifier&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="-1202.79" y="1965.9999999999998" width="343" height="52.8" as="geometry" />
+        <mxCell id="-V3ER36qa7a0yzEx8tnA-35" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Autoregressive Decoder&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=#7EA6E0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-1201.55" y="1933.69" width="343" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-V3ER36qa7a0yzEx8tnA-4" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Bidirectional Encoder&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE5D4;strokeColor=#F4B183;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-1621.27" y="1933" width="343.00000000000006" height="80.691788058268" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
