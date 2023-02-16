@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-16T09:01:41.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="6CxLVhsgm5PQUjrVVUme" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-16T09:03:28.257Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hjOUFqc4JL1pRdY-SlV-" version="20.8.5" type="github">
   <diagram id="hTFCfl7YJvOzL9uKxPpn" name="Page-1">
     <mxGraphModel dx="3435" dy="-553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -493,10 +493,10 @@
             <mxPoint x="-1243.79" y="1552" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-117" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;exitX=0;exitY=0;exitDx=0;exitDy=0;endFill=0;strokeWidth=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="5XDR1Y2ZfNh-KPmnLjNU-2" target="5XDR1Y2ZfNh-KPmnLjNU-133" edge="1">
+        <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-117" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;exitX=0;exitY=0;exitDx=0;exitDy=0;endFill=0;strokeWidth=1;" parent="1" source="5XDR1Y2ZfNh-KPmnLjNU-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-1254.6799999999998" y="1581" as="sourcePoint" />
-            <mxPoint x="-1192.29" y="1561" as="targetPoint" />
+            <mxPoint x="-1264" y="1548" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5XDR1Y2ZfNh-KPmnLjNU-118" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;$$ \Theta_{\mathcal{M}}^{\color{red} t} \gets \Theta_{\mathcal{M}}^{\color{red} {t-1}} - \eta \times \nabla_{\Theta_{\mathcal{M}}} \mathcal{L}_{\rm CTL}(\mathcal{X},\mathcal{Y};\Theta_{\mathcal{M}}) $$&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillStyle=zigzag-line;fontFamily=Times New Roman;fontSize=6;strokeColor=none;fillColor=none;" parent="1" vertex="1">
@@ -759,6 +759,12 @@
         </mxCell>
         <mxCell id="-V3ER36qa7a0yzEx8tnA-76" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;$$\bf {x_3}$$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-1107.03" y="1882" width="111" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="-V3ER36qa7a0yzEx8tnA-77" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fontSize=16;endFill=0;strokeWidth=2;startArrow=classic;startFill=0;strokeColor=#EA6B66;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1363.69" y="1993" as="sourcePoint" />
+            <mxPoint x="-1535.8400000000001" y="1993" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
